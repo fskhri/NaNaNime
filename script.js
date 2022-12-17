@@ -9,7 +9,7 @@ if ( $(window).width() >= 1024 ) {
 }
 
 
-//https://api.jikan.moe/v3/genre/type/genre_id/page
+//https://docs.api.jikan.moe/
 
 // Season Function
 function animeSeason(season) {
