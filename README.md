@@ -5,6 +5,6 @@ Website yang memberitahu anda anime top season ini
 
 ## License
 
-MIT License
+[MIT License] (https://github.com/fskhri/NaNaNime/blob/main/LICENSE)
 
-Copyright (c) 2023 fskhri
+Copyright (c) 2022 fskhri
